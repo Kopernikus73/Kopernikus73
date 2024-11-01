@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kopernikus73
 - 👀 I’m interested in Coding, Maths, Physics and Video games
-- 🌱 I’m currently learning Rust and C
+- 🌱 I’m currently learning Rust, C and x86_64 Assembler
 - 📫 How to reach me kopernikus73.github@gmail.com
 - 😄 Pronouns: He/Him
 
