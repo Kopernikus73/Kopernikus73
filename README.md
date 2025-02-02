@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Kopernikus73
-- 👀 I’m interested in Coding, Maths, Physics and Video games
-- 🌱 I’m currently learning Rust, C and x86_64 Assembler
-- 📫 How to reach me kopernikus73.github@gmail.com
-- 😄 Pronouns: He/Him
+<h1 align="left">Hey I am Kopernikus</h1>
 
-<!---
-Kopernikus73/Kopernikus73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am not this active anymore since I almost completely switched to GitLab, but here are some stats no one cares about:
+
+![Kopernikus73](https://github-readme-stats.vercel.app/api?username=Kopernikus73&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![Kopernikus73](https://github-readme-stats.vercel.app/api/top-langs?username=Kopernikus73&show_icons=true&theme=tokyonight&layout=compact)
