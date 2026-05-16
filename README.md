@@ -24,7 +24,7 @@
 <br/><br/><br/>
 <hr>
 <div align="center">
-  <h3>🐍 Go on eat my few commits...</h3>
+  <h3>🐍 Go on, eat my few commits...</h3>
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/kopernikus73/kopernikus73/output/github-contribution-grid-snake-dark.svg" alt="Snake Game">
