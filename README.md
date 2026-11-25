@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,fediverse,latex,python,c,rust,yew,tauri"/>
+  <img src="https://skillicons.dev/icons?i=linux,arch,fediverse,latex,c,rust,arduino,julia,neovim,yew,tauri,bevy"/>
 </div>
 
 ###
